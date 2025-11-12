@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is AmirZeroHz and I'm a Full-Stack Developer, from Iran</h2>
+<h2 align="left">TheRealVirox — a passionate Full-Stack Developer focused on building efficient and scalable web applications</h2>
 
 ###
 
-<img align="right" height="150" src="https://images.steamusercontent.com/ugc/2501256932182184073/2EF2E36A5FCC527232EF46BBA7D158DDA1A7A0E5/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+<img align="right" height="150" src="https://uploadkon.ir/uploads/c50d12_25cefaa66932b732cdfbe84d9772f9aeba.gif"  />
 
 ###
 
