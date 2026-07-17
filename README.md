@@ -58,11 +58,6 @@
 
 ###
 
-<div data-importer="techs" align="left">
-</div>
-
-###
-
 <div data-importer="socials" align="center">
   <a href="https://www.instagram.com/therealvir0x/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -74,10 +69,17 @@
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheRealVirox/TheRealVirox/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheRealVirox/TheRealVirox/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TheRealVirox/TheRealVirox/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+<div data-importer="music" align="center">
+  <a href="https://open.spotify.com/user/31cyokcnc6h3ihryuwhxcgsdkvkm">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31cyokcnc6h3ihryuwhxcgsdkvkm&count=3&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=TheRealVirox&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/TheRealVirox/TheRealVirox/activity-graph-output/activity-graph.svg?radius=16&theme=high-contrast&area=true&order=5&hide_border=true&hide_title=true&bg_color=00000000" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
